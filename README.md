@@ -1,5 +1,4 @@
 # Microsoft SQL Server & Nodejs REST API CRUD.
-nodejs and Microsoft SQL Server Datbase REST API
 
 <b>Subscribe to My Youtube Channel:</b><br>
 https://www.youtube.com/NerdAutodidata
